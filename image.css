@@ -1,0 +1,13 @@
+*{
+    box-sizing:border-box;
+}
+.colume{
+    float:left;
+    width:100px;
+    padding:5px;
+}
+.row::after{
+    content:"displays the image";
+    display:table;
+    clear;
+}

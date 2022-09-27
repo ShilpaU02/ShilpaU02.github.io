@@ -1,0 +1,48 @@
+h1{
+    color:green;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h2{
+    color:black;
+    font-size:50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1,h2{   
+    color:green;
+    font-size:50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.lets{
+    color:pink;
+}
+.headerthree{
+
+    color:blue;
+}
+
+body {
+      background-image:url('pic.jpg'); 
+      background-size:cover;
+                                           
+}
+#idselector{
+    color:aqua;
+    font-size:150px;
+}
+.padding{
+    padding:10px 5px 6px 20px;
+    /*left,top,right,bottom*/
+    padding-right:2px;
+    border:3px solid green;
+    margin:10px;
+}
+.rect{
+    border:3px solid red;
+    height:100px;     
+    width:200px;
+  
+           
+}
+
